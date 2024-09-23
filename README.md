@@ -62,11 +62,12 @@ Make sure you have the following installed:
 
 Once installed, navigate to your LinkedIn messages. The extension will assist you in generating replies directly within the message interface.
 
-## Video Demo
-
-You can watch a video demonstration of the extension here: 
-https://github.com/user-attachments/assets/299e38ff-1131-40b4-b662-3baf310d6ed5
-
 ## Contributing
 
 Feel free to contribute to the project! Open issues or submit pull requests for any enhancements or bug fixes.
+
+## Video Demo
+
+You can watch a video demonstration of the extension here: 
+
+https://github.com/user-attachments/assets/299e38ff-1131-40b4-b662-3baf310d6ed5
